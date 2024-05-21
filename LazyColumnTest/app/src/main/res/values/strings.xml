@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LazyColumnTest</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="address">address</string>
+    <string name="phonenumber">phonenumber</string>
+    <string name="url">url</string>
+</resources>
